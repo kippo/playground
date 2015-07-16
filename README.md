@@ -5,7 +5,7 @@ For quick HTML & CSS experiments.
 ## Install
 
 ```
-git clone git git@github.com:haydn/playground.git
+git clone git@github.com:haydn/playground.git
 cd playground
 bundle
 ```
