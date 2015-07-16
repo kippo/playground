@@ -27,4 +27,4 @@ jekyll s
 
 You can now view your project here:
 
-http://localhost:4000/
+[http://localhost:4000/](http://localhost:4000/)
