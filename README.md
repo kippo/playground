@@ -24,3 +24,7 @@ Start the Jekyll server:
 ```
 jekyll s
 ```
+
+You can now view your project here:
+
+http://localhost:4000/
