@@ -7,6 +7,7 @@ For quick HTML & CSS experiments.
 ```
 git clone git@github.com:haydn/playground.git
 cd playground
+gem install bundler
 bundle
 ```
 
